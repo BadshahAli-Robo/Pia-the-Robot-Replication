@@ -1,7 +1,7 @@
 # Pia-the-Robot – Replication & Learning Project
 
 ## Hardware Replication & Exploration
-<img src="Pia-the-Robot-Replication.png" width="100%" style="max-height:200px; object-fit:cover;" />
+<img src="Pia-the-Robot-Replication(NO).png" width="100%" style="max-height:200px; object-fit:cover;" />
 
 I was inspired by [Pia-the-robot](https://github.com/BtreeComputingServcies/pia-the-robot), which itself was inspired by [Mira](https://www.youtube.com/watch).
 
